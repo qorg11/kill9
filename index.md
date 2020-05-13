@@ -13,7 +13,7 @@ Any article in this website is WIP. And they will always be WIP.
 
 ## Contributing to this website
 
-Go to the [Github repository](https://github.com/qorg11/kill9), fork
+Go to the [GitLab repository](https://gitlab.com/qorg11/kill9), fork
 it, change whatever, make a pull request, ill merge, and your change
 will appear here.
 
