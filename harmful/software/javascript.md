@@ -49,7 +49,7 @@ Unless you only use 1.0 websites. Disabling javascript will broke your
 internet experience, but will make it way faster. just install
 noscript and have fun with your sane browser.
 
-## NodeJS
+# NodeJS
 
 Node is what happens when you extract the JavaScript interpreter from
 chromium and put it on the desktop. This allows the user to execute
@@ -61,7 +61,7 @@ thanks to this great idea we've now worse things
 outside the Chromium browser. Meaning that node is just a part of
 chromium with marketing)
 
-### Electron
+# Electron
 
 Electron is what happens when you hire web developers but you gotta
 make the program aviable for the desktop. The problem is that

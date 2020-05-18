@@ -4,8 +4,7 @@
 This is a website made by qorg11. This is a "blog" about anything. It
 runs [werc](http://werc.cat-v.org) as its "cms"
 
-The horrible theme is based on the Structure and Interpretation of
-Computer Programs cover.
+The theme is Yotsuba B
 
 Anything that I've written in this website is under CC BY license. Images might or might not be under that license.
 
