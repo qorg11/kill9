@@ -17,7 +17,7 @@ Install [SLIME](https://github.com/slime/slime) or [SLY](https://github.com/joao
 
 Configuring SLIME:
 
-Add this to your .emacs.d/init.el or .emacs
+Add this to your config file
 ```
 (load (expand-file-name "~/quicklisp/slime-helper.el")) ;; If you're using quicklisp
 (setq inferior-lisp-program "your-lisp-implementation") ;; Probably Clozure CL or SBCL
@@ -25,7 +25,7 @@ Add this to your .emacs.d/init.el or .emacs
 
 Configuring SLY:
 
-Literally just add your inferior lisp program into your .init.el:
+Literally just add your inferior lisp program into your config file:
 `(setq inferior-lisp-program "your-lisp-implementation")`
 
 
