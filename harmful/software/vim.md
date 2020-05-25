@@ -12,12 +12,12 @@ For these reasons i want share with you my 5 reasons why vim suck less.
 
 * If speed is the priority then you need vim.
 You only need this things to be x1000 faster than others, and here are my reasons: 
-    > Relative Numbers
-    > remap everything with <leader> like <leader>g for save and fuck it.
-    > FZF-vim and marks, search and move in file directory never been easier and faster.
-    > vim-commentary and vim-sorround and forget about the repetitive and tedious stuff
-    > YouCompleteMe for a reasonable jump to definations
-    > finally the magic, vim-easymotion, with this shit you're gonna move your cursor with your eyes and not lie.
+    1. Relative Numbers
+    2. remap everything with <leader> like <leader>g for save and fuck it.
+    3. FZF-vim and marks, search and move in file directory never been easier and faster.
+    4. vim-commentary and vim-sorround and forget about the repetitive and tedious stuff
+    5. YouCompleteMe for a reasonable jump to definations
+    6. finally the magic, vim-easymotion, with this shit you're gonna move your cursor with your eyes and not lie.
 
 * Recycle knowledge (because humans).
 The key binding area stupidly intuitive, you will learn once and use it again for everything
