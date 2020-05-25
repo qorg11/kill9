@@ -9,3 +9,7 @@
 What the hell? What happens if I press cancel or ok? Why is there
 cancel and ok when there's activate and don't activate? what the hell
 is this? Also what's a sticky key
+
+* Reliance on systemd
+
+[Why would you ever do this](https://blogs.gnome.org/benzea/2019/10/01/gnome-3-34-is-now-managed-using-systemd/)
