@@ -37,6 +37,7 @@ love it more than "comfortable" Vim key bindings.
 If moving character by character is too slow, you can try using the
 M-f and M-b to move word by word. M-p and M-n don't do anything. So
 don't try it.
+
 ## Moving even faster
 
 Sometimes you just have to go to the end or beginning of the
