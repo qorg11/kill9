@@ -14,7 +14,9 @@ Any article in this website is WIP. And they will always be WIP.
 
 Go to the [GitLab repository](https://gitlab.com/qorg11/kill9), fork
 it, change whatever, make a pull request, ill merge, and your change
-will appear here.
+will appear here. If you don't want to use Git,
+[email](mailto:qorg[@)vxempire.xyz) me a diff and I'll patch the
+file. Atribution will be given if wanted.
 
 <a href="http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/">Onion</a>
 
