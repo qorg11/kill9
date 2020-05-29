@@ -8,6 +8,7 @@
 * No switch (if else if else if else if else if else if...)
 * No constants
 * It is a true miracle that Python has lambdas. (BTW you cannot give statements to a lambda. Which makes them very useless.)
+* no goto (a well used goto is better than a horrible code)
 
 # Versions hell
 

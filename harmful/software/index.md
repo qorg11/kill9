@@ -20,11 +20,11 @@ extensions are kinda useful. So I don't consider them harmful.
     <th>Better alternatives</th>
   </tr>
   <tr>
-    <td>KDE, Gnome</td>
+    <td>KDE, [Gnome](gnome)</td>
     <td>i3wm, dwm, Xfce</td>
   </tr>
   <tr>
-    <td>Windows, MacOS</td>
+    <td>[Windows](windows), MacOS</td>
     <td>GNU/Linux, BSD, Haiku</td>
   </tr>
   <tr>
@@ -32,15 +32,15 @@ extensions are kinda useful. So I don't consider them harmful.
     <td>JSON, CVS</td>
   </tr>
   <tr>
-    <td>Vim, Vi</td>
+    <td>[Vim](vim), Vi</td>
     <td>nano, Emacs, ed, joe, zile, jed</td>
   </tr>
   <tr>
     <td>MacBooks</td>
-    <td>ThinkPads, Toughbooks</td>
+    <td>[ThinkPads](/rocks/computers/thinkpads), Toughbooks</td>
   </tr>
   <tr>
-    <td>Java, C++, Python, Clojure</td>
+    <td>[Java](java), [C++](c++), [Python](python), [Clojure](clojure)</td>
     <td>Perl, C, Common Lisp, Scheme</td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@ extensions are kinda useful. So I don't consider them harmful.
     <td>GCC, TCC</td>
   </tr>
   <tr>
-    <td>Wayland</td>
+    <td>[Wayland](wayland)</td>
     <td>X11</td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ extensions are kinda useful. So I don't consider them harmful.
     <td>Procedural, or even better, functional programming</td>
   </tr>
   <tr>
-    <td>Electron</td>
+    <td>[Electron](javascript)</td>
     <td>Throwing yourself to an active volcano, you cannot be saved</td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ extensions are kinda useful. So I don't consider them harmful.
     <td>Firefox, Librewolf, Qutebrowser, Palemoon, GNU IceCat, Goddamit, Even surf is better than those browsers</td>
   </tr>
   <tr>
-    <td>Google Search, Bing</td>
+    <td>G\*\*gle Search, Bing</td>
     <td>DuckDuckGo, Qwant and the best of all, Searx</td>
   </tr>
   <tr>
@@ -94,4 +94,9 @@ extensions are kinda useful. So I don't consider them harmful.
   <tr>
     <td>MIT, BSD</td>
     <td>GPL, [VPL](https://viralpubliclicense.org/)</td>
+  </tr>
+  <tr>
+    <td>apt, pacman, dnf, yum, dpkg</td>
+    <td>xbps, emerge, pkg</td>
+  </tr>
 </table>
