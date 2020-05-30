@@ -4,3 +4,8 @@
 >\>Java virtual machine
 
 what?
+
+* No car
+* No cdr
+
+What kind of lisp are you?
