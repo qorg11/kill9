@@ -1,10 +1,10 @@
 # Kill-9's Emacs things
 
-Emacs (short for Editor MACroS) is a text editor[^1] made by some
-weird guy in the late 70s, and had too many implementations, such as
-XEmacs, Freemacs, µEmacs (microemacs). in 1984 (lmao), the GNU project ~~stole~~
-rewrote the original Emacs code and the most used version of Emacs was
-born: GNU Emacs.
+Emacs (short for Editor MACroS) is a text editor[^1] made by Carl
+Mikkelsen and David A. Moon in the late 70s, and had too many
+implementations, such as XEmacs, Freemacs, µEmacs (microemacs). in
+1984, the GNU project ~~stole~~ rewrote the original Emacs code
+and the most used version of Emacs was born: GNU Emacs.
 
 # Installation
 
