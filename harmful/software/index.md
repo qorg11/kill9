@@ -25,7 +25,7 @@ extensions are kinda useful. So I don't consider them harmful.
   </tr>
   <tr>
     <td>[Windows](windows), MacOS</td>
-    <td>GNU/Linux, BSD, Haiku</td>
+    <td>GNU/Linux, The BSDs, PureDarwin, Haiku</td>
   </tr>
   <tr>
     <td>XML</td>
@@ -77,7 +77,7 @@ extensions are kinda useful. So I don't consider them harmful.
   </tr>
   <tr>
     <td>G\*\*gle Search, Bing</td>
-    <td>DuckDuckGo, Qwant and the best of all, Searx</td>
+    <td>DuckDuckGo, Startpage, Qwant and the best of all, Searx</td>
   </tr>
   <tr>
     <td>WhatsApp, Messenger, Twitter DM's, Discord</td>
@@ -93,7 +93,7 @@ extensions are kinda useful. So I don't consider them harmful.
   </tr>
   <tr>
     <td>MIT, BSD</td>
-    <td>GPL, [VPL](https://viralpubliclicense.org/)</td>
+    <td>GPL, [VPL](https://viralpubliclicense.org/), [K9PL](https://gitlab.com/call-cc/k9core/-/raw/master/LICENSE)</td>
   </tr>
   <tr>
     <td>apt, pacman, dnf, yum, dpkg</td>
