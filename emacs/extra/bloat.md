@@ -25,4 +25,6 @@ what to delete. So Vim doesn't stop working. Then you gotta recompile.
 
 Nvim is a (fork) of vim written in Vimscript, C and extensible in Lua.
 Using an external programming language for extensions is bloat. Emacs
-fixed that using its own programming language.
+fixed that using its own programming language, which is also a programming
+language that happens to be very powerful, and allows lots of plugins to be
+written for emacs.
