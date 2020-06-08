@@ -1,4 +1,3 @@
-
 # kill-9.xyz
 
 This is a website made by qorg11. This is a "blog" about anything. It
@@ -17,6 +16,11 @@ it, change whatever, make a pull request, ill merge, and your change
 will appear here. If you don't want to use Git,
 [email](mailto:qorg\[@\)vxempire.xyz) me a diff and I'll patch the
 file. Atribution will be given if wanted.
+
+## IRC
+
+Join use at #lain in [kill-9.xyz!](irc://kill-9.xyz)
+
 
 <a href="http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/">Onion</a>
 
