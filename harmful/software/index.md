@@ -8,8 +8,6 @@ software less bad than non minimalistic software. Sometimes a
 "bloated" program is way better than non bloated ones, for example,
 Emacs vs Vim. Or Firefox vs Surf.
 
-
-
 Here you can find a table (Consider this as a TODO) I am not including
 GNU utilities because, altough they don't follow standards, their
 extensions are kinda useful. So I don't consider them harmful.
@@ -96,7 +94,16 @@ extensions are kinda useful. So I don't consider them harmful.
     <td>GPL, [VPL](https://viralpubliclicense.org/), [K9PL](https://gitlab.com/call-cc/k9core/-/raw/master/LICENSE)</td>
   </tr>
   <tr>
-    <td>apt, pacman, dnf, yum, dpkg</td>
-    <td>xbps, emerge, pkg</td>
+    <td>pacman, dnf, yum, dpkg</td>
+    <td>xbps, apt, emerge, pkg</td>
+  </tr>
+  <tr>
+    <td>Steam, Epic Games store</td>
+    <td>GOG (Just the game installer, not the gog galaxy thing)</td>
   </tr>
 </table>
+
+The programs here are worse than useless so they require no alternative:
+
+* Adobe Flash
+* Microsoft Office
