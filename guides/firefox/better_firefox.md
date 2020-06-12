@@ -40,3 +40,7 @@ Inside that folder. Create a file named userChrome.css with the following conten
 # Remove spyware
 
 Now you might want to disable spyware from your browser (You should). Follow the steps [here](/guides/firefox/spyware)
+
+# Further Firefox ricing
+
+WIP, visit <https://userchrome.org>
