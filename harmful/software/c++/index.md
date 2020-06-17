@@ -42,6 +42,16 @@ int main(void)
 }
 ~~~
 
+### What the FUCK was Bjarne smoking when he did this:
+
+In C:
+
+`printf("0x%04x\n", 0x424);`
+
+In C++:
+
+`std::cout << "0x" << std::hex << std::setfill('0') << std::setw(4) << 0x424 << std::endl;`
+
 Now what the fuck is std:: and why do I have to write << just to print some shit.
 
 Note: you can skip the std:: part with ```using namespace std``` but this is a [bad practice](https://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
