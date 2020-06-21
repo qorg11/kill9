@@ -67,7 +67,7 @@ extensions are kinda useful. So I don't consider them harmful.
   </tr>
   <tr>
     <td>Wordpress</td>
-    <td>[werc](https://werc.cat-v.org), [cleg](https://git.qorg11.net/cleg)</td>
+    <td>[werc](https://werc.cat-v.org), [cleg](https://git.qorg11.net/cleg.git)</td>
   </tr>
   <tr>
     <td>Chromium, G\*\*gle Chrome, Safari, M\*cr\*soft Edge, Brave, Opera, Opera Gaming, Vivaldi</td>
@@ -103,7 +103,8 @@ extensions are kinda useful. So I don't consider them harmful.
   </tr>
 </table>
 
-The programs here are worse than useless so they require no alternative:
+The programs here are worse than useless so they require no
+alternative:
 
 * Adobe Flash
 * Microsoft Office
