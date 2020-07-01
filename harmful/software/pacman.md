@@ -4,4 +4,4 @@
 
 ![](https://lainsafe.delegao.moe/files/dUPHjiYC.jpg)
 
-Screenshots by our [noble soydev](https://twitter.com/dvtate0)
+Screenshots by our [noble soydev](https://nitter.net/dvtate0)
