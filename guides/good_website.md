@@ -27,4 +27,5 @@ i2p or freenet are okay too.
 
 .onions are easy as shit to make. 
 
-If your hosting provider does not provide a .onion intercae. Consider getting a VPS or self host your website with a Raspberry Pi.
+If your hosting provider does not provide a .onion interface. Consider
+getting a VPS or self host your website with a Raspberry Pi.
