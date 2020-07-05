@@ -19,7 +19,7 @@ file. Atribution will be given if wanted.
 
 ## IRC
 
-Join use at #lain in [kill-9.xyz!](irc://kill-9.xyz)
+Join use at #the-wired in [kill-9.xyz!](irc://kill-9.xyz)
 
 
 <a href="http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/">Onion</a>

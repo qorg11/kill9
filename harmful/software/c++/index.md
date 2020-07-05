@@ -19,6 +19,11 @@ max-width:75%;
 
 --- ssylvan
 
+>I think maybe the guy who invented C++ doesn’t know the difference
+>between increment and excrement. 
+
+--- smcameron
+
 ## Object oriented
 
 So automatically sucks.
