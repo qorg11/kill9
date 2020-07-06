@@ -21,6 +21,18 @@ file. Atribution will be given if wanted.
 
 Join use at #the-wired in [kill-9.xyz!](irc://kill-9.xyz)
 
+## RSS feed
+
+Since we use a fucking wiki software and this is not a blog we don't have a RSS feed.
+
+Nevertheless, we use git for the control of this website. Meaning
+everytime we made a commit on this website. the [GitHub RSS feed](https://github.com/qorg11/kill9/commits/master.atom)
+updated. So you can use that RSS feed.
+
+Please note that that RSS feed can have any kind of crap. From "fixed
+typos" to a whole new article. Anyways, I hope it helps you.
+
+We use the GitHub RSS feed rather than the [GitLab RSS feed](https://gitlab.com/qorg11/kill9.atom?feed_token=MJWQdZy-kPsUNT96e-bC) because it has more descritive titles. So it can help you.
 
 <a href="http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/">Onion</a>
 
