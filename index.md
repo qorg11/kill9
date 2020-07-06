@@ -26,7 +26,8 @@ Join use at #the-wired in [kill-9.xyz!](irc://kill-9.xyz)
 Since we use a fucking wiki software and this is not a blog we don't have a RSS feed.
 
 Nevertheless, we use git for the control of this website. Meaning
-everytime we made a commit on this website. the [GitHub RSS feed](https://github.com/qorg11/kill9/commits/master.atom)
+everytime we made a commit on this website. the [GitHub RSS
+feed](https://github.com/qorg11/kill9/commits/master.atom) is
 updated. So you can use that RSS feed.
 
 Please note that that RSS feed can have any kind of crap. From "fixed
