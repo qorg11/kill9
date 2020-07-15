@@ -1,6 +1,5 @@
 # (car harmful\_programming\_languages)
->\>Lisp 
-
+>\>Lisp   
 >\>Java virtual machine
 
 what?
