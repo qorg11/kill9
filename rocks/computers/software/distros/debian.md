@@ -31,7 +31,7 @@ But there's also bad stuff.
 
 * systemd by default. You can change it. But it is a very bad idea. If
   you want Debian without systemd. Use [Devuan](https://devuan.org),
-  which is the distro I use (2020-06-05)
+  which is the distro I use (2020-06-05) (not anymore)
 * apt is slow as fuck while unpackaging.
 * same as dpkg
 * Old packages if you don't use Debian testing/sid. Which is not a big
@@ -39,4 +39,4 @@ But there's also bad stuff.
   directly.
 
 That's all about Debian. Probably my favorite distro and you should
-use it if you're net to GNU/Linux.
+use it if you're new to GNU/Linux.
