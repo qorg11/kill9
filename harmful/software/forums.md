@@ -19,7 +19,7 @@ Disadvantages: Activity
 
 Advantages: Allow posting for proxy/vpn/tor, no captchas of any kind,  
 node is a good admin that always accept requests  
-Disavantages: 5 samefags community, spanish speaking imageboards  
+Disavantages: 5 samefags community, if you don't speak spanish, you're out of luck imageboards  
 
 ## Regular forums
 
@@ -27,4 +27,3 @@ Disavantages: 5 samefags community, spanish speaking imageboards
 
 Advantages: There's a subreddit for everything  
 Disadvantages: It's reddit
-
