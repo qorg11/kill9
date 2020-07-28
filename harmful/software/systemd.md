@@ -109,3 +109,18 @@ Because it is UNIX like!
 use **journalctl** (can't use less/more/cat/whatever) to see what's going on.
 
 At least, there's /var/log. But not all software use that
+
+## Alternatives to systemd
+
+Good luck!
+
+* runit
+* sinit
+* SysVinit
+* Seppherd
+* cinit
+* OpenRC
+* Anything that is not systemd. for satan's sake
+
+Anyways, good distros without systemd are gentoo, void and
+slackware. Consider BSD too!
