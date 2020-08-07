@@ -1,4 +1,4 @@
-# Fixing firefox
+# Fixing Firefox
 
 Of course. nothing is perfect. But I can try to be or something. In this guide we're turning 
 
@@ -23,8 +23,8 @@ Download. Install it and if don't appear. Press C-e, and your tabs will appear.
 # Remove tab bar
 
 In newer version of Firefox. You might need to set
-toolkit.legacyUserProfileCustomizations.stylesheets to trye in
-about:config I'm using firefox 68 so i don't need to.
+toolkit.legacyUserProfileCustomizations.stylesheets in
+about:config I'm using Firefox 68 so i don't need to.
 
 Go to your Firefox profile location
 (~/.mozilla/firefox/xxxxxx-default) and create a folder named "chrome"
@@ -34,6 +34,9 @@ Inside that folder. Create a file named userChrome.css with the following conten
 ~~~
 #TabsToolbar {
   visibility: collapse;
+}
+#sidebar-box #sidebar-header {
+  display: none !important;
 }
 ~~~
 
