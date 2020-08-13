@@ -5,7 +5,8 @@ runs [werc](http://werc.cat-v.org) as its "cms"
 
 The theme is Yotsuba B
 
-Anything that I've written in this website is under CC BY SA license. Images might or might not be under that license.
+Anything that I've written in this website is under CC BY SA
+license. Images might or might not be under that license.
 
 Any article in this website is WIP. And they will always be WIP.
 
@@ -16,6 +17,8 @@ it, change whatever, make a pull request, ill merge, and your change
 will appear here. If you don't want to use Git,
 [email](mailto:qorg\[@\)vxempire.xyz) me a diff and I'll patch the
 file. Atribution will be given if wanted.
+
+If you want to request an article, just submit an issue or email me.
 
 ## IRC
 

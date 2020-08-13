@@ -18,8 +18,8 @@ Disadvantages: Activity
 ### Wired-7
 
 Advantages: Allow posting for proxy/vpn/tor, no captchas of any kind,  
-node is a good admin that always accept requests  
-Disavantages: 5 samefags community, if you don't speak spanish, you're out of luck imageboards  
+node is the less bad jannie out there.  
+Disavantages: 5 samefags community, if you don't speak spanish, you're out of luck.
 
 ## Regular forums
 
