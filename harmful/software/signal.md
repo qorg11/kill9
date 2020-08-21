@@ -106,6 +106,12 @@ Your Signal fork, also, can't have the name "Signal" on it. Because
 that makes [Moxie
 angry](https://github.com/LibreSignal/LibreSignal/issues/37#issuecomment-217211165)
 
+# Why is Signal recommended by security experts then?
+
+Because they're trying to convince computer novices to use a secure
+IM, you know, I don't expect my grandmother to setup her own XMPP
+server. But I can expect her to use Signal since it is made for novices.
+
 # Conclusion
 
 XMPP does not have any of these problems.
