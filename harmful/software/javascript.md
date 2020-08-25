@@ -1,4 +1,4 @@
-# JavaScript considered harmful
+# JavaScript and its consequences have been a disaster for the human race
 
 JavaScript is a programming language often used on websites. To create
 dynamic content on client end. Some dudes thought that extracting the
@@ -13,7 +13,7 @@ At the end that doesn't matters. Because it's a useless fact to be
 honest. but the pain starts when you actually use that programming
 language.
 
-### Developers idiocy
+## Developers idiocy
 
 First of all the language is slow as fuck. And websites are BLOATED of
 JavaScript nowadays. Adding ***USELESS*** function i'd never like to
@@ -61,6 +61,18 @@ thanks to this great idea we've now worse things
 outside the Chromium browser. Meaning that node is just a part of
 chromium with marketing)
 
+# Syntax
+The syntax was written by a gorilla, it uses camelCase, (I don't
+like it, but well, i can live with it).
+
+for example, `in JS you do document.getElementById("foobar");` I guess
+this is ok, but like I said, this was written by a monkey, becuase
+then we have functions: `XMLHttpRequest` <-- What the hell?  Why is
+XML capitalized, but Http isn't?  A good language, let's say, C, would
+have done it like this: `xml_http_request`; (which is saner)
+or `XML_http_request()` if you use the weird OpenSSL functions names lol
+
+
 # Electron
 
 Electron is what happens when you hire web developers but you gotta
@@ -69,7 +81,7 @@ JavaScript can't do graphics (as far as I know, there's no X11 library
 for JavaScript, thankfully) So what do they do to use GUIs on
 JavaScript? Make every program a mini-chromium browser! So every
 program that's running electron is just chromium browser. Which is
-truly stupid. And a lazy way to do programming. 
+truly stupid. And a lazy way to do programming.
 
 Here's what is needed to run a program (Written in a compiled language) in GNU/Linux:
 
