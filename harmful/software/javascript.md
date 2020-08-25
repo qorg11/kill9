@@ -41,6 +41,13 @@ it because JavaScript.
 
 <null == undefined
 >true
+// I specially like this one
+
+<[]+{}
+>"[object Object]"
+<{}+[]
+>0
+
 ~~~
 
 ## Disabling JavaScript
