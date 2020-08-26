@@ -1,6 +1,6 @@
 # It is actually systemd/Linux!
 
-Most people who hate systemd can elaborate on why they hate
+Most people who hate systemd can't elaborate on why they hate
 systemd. But I can.
 
 ## Privacy issues

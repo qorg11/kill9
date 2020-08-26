@@ -72,7 +72,7 @@ Software does with their binaries and source packages? (Also, every
 sane repository does this with RSA))
 
 Also: A checksum **IS NOT** a signature. Your local fed can break onto
-your server, put a backdoored APK, and change the signatures. What a
+your server, put a backdoored APK, and change the checksums. What a
 fed cannot do though is to sign that backdoored APK with your PGP key,
 because you need the private key to sign. Also the passphrase in any
 sane implementation of OpenPGP, BTW F-Droid signs the packages
@@ -89,8 +89,8 @@ account in multiple clients? How do i get information about my
 contact? Yup, they're stored in Moxie's servers!
 
 Signal should be federated. Basically a federation are like email,
-Lain can send an email from lainswebsite to qorg, whose email is at
-vxempire.xyz, and nothing says you cannot do that.
+Lain can send an email from lainswebsite.net to qorg, whose email is
+at vxempire.xyz, and nothing says you cannot do that.
 
 I should be able to setup my own Signal server, in my own hardware. So
 I'm in control of the logs and data. I can also let my friends to use
