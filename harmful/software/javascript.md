@@ -10,8 +10,8 @@ JavaScript is not only stupid (javascript returns true when) ```true +
 true === 2``` Which means that true is literally ```#define true 1```
 
 At the end that doesn't matters. Because it's a useless fact to be
-honest. but the pain starts when you actually use that programming
-language.
+honest. It only shows how bad designed the shit is. But the pain starts
+when you actually use that programming language.
 
 ## Developers idiocy
 
