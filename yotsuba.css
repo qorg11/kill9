@@ -1,0 +1,16 @@
+body { background-color: #ffffee;}
+.midHeader{ background-color: #f0e0d6!important; }
+#side-bar { background-color: #ffffee; }
+#side-bar a { color: black; }
+#side-bar a:hover {
+  color: white!important;
+  background-color: #428a42;
+}
+h1,h2,h3,h4,h5,h6, p{
+    color:maroon!important;}
+
+p {
+    color:maroon!important;
+}
+#footer {background-color: #f0e0d6!important;}
+blockquote > p {color:#789922!important;}

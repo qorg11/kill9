@@ -1,0 +1,25 @@
+* { cursor: url(https://callcc.kill-9.xyz/cursor.png), auto; }
+body { background-color: #1d1f21;}
+.midHeader{ background-color: #282a2e!important; }
+#side-bar { background-color: #1d1f21; }
+#side-bar a { color: black; }
+#side-bar a:hover {
+  color: white!important;
+  background-color: #428a42;
+}
+h1,h2,h3,h4,h5,h6, p, #footer a{
+    color:#c5c8c6!important;
+
+}
+.headerTitle a{color:#81a2be !important;}
+
+#footer {background-color: #282a2e!important;}
+
+#side-bar a{color:#81a2be !important;}
+
+#main-copy a { color: #81a2be !important; }
+
+li, ul, ol {
+	padding-left: 0.7em !important;
+	color: #81a2be !important;
+}

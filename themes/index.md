@@ -11,6 +11,11 @@ These themes are in the public domain.
 
 [SICP](https://kill-9.xyz/sicp.css)
 
+[Yotsuba](https://kill-9.xyz/yotsuba.css)
+
 [Yotsuba B](https://kill-9.xyz/yotsubab.css)
 
+[Tomorrow](https://kill-9.xyz/tomorrow.css)
+
 [Fauux](https://kill-9.xyz/fauux.css)
+
