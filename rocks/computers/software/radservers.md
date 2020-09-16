@@ -122,6 +122,16 @@ DNS services
 Nothing is logged. If there\'s some abuse, logs will be kept, but will
 be nuked after 24 hours.
 
+
+Kalli.st
+----------
+
+https://kalli.st provides various services. E-Mail, Git, XMPP,Pleroma
+and lainsafe (:D)
+
+I've only tried their E-Email and their Git, seems to work
+properly. Also good luck getting an account.
+
 Conclusion
 ----------
 
