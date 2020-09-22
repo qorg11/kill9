@@ -20,10 +20,6 @@ file. Atribution will be given if wanted.
 
 If you want to request an article, just submit an issue or email me.
 
-## IRC
-
-Join use at #the-wired in [kill-9.xyz!](irc://kill-9.xyz)
-
 ## RSS feed
 
 Since we use a fucking wiki software and this is not a blog we don't have a RSS feed.

@@ -10,6 +10,7 @@ Go to ~/.mozilla/firefox You'll find some .default folders. One
 contains a "times.json" file and the other is full of shit. Delete every content on the folder full of shit
 
 create a file called user.js and put this:
+[link](https://bin.snopyta.org/?20cdcb4f7af88305#Cnr5cLBdUx2XmwruCBEcyFuyY9WCffG8AnGcuXJBSgng)
 
 ~~~
 user_pref("network.connectivity-service.enabled", false);
