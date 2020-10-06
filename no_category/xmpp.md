@@ -11,6 +11,8 @@ not everyone can do this. So public servers exists for some reason. In
 this article I am going to compare all the XMPP public servers I\'ve
 seen. What they recollect, how to register to them and stuff like that.
 
+I am **NOT** going to dig into terms of service. Only privacy. 
+
 Trashserver.net
 ===============
 
@@ -72,8 +74,10 @@ account? in the absolute trash it goes!
 >government request in the United States or the European Union.
 
 Alright, they store, your **IP Address** and when you connected. Don\'t
-even think on creating an account here. And would give info to feds.html
+even think on creating an account here. And would give info to feds
 **SHIT TIER**
+
+Also, the website is **cuckflared**
 
 Snopyta
 =======
@@ -96,8 +100,8 @@ Good.
 >for a maximum of 24 hours.
 
 Well, you have to be out of luck for Snopyta to log your IP. Anyways,
-you can always log in using Tor. I don\'t know if Snopyta gives .onion
-services for their XMPP.
+you can always log in using Tor. They also provide a .onion address
+for XMPP.
 
 >Messages sent to you while you are offline are stored until you
 >connect or your account is deleted.
@@ -169,11 +173,125 @@ account. You'll have to solve a craptcha. Don't use creep.im if you
 don't want your contacts to become your enemies. Shit tier. just for
 this.
 
+# yax.im
+
+Yaxim is a XMPP client for Android, which also gives us a XMPP server:
+
+[Privacy policy](https://yaxim.org/yax.im/privacy/):
+
+**Information Associated with your Account**
+
+>The IP address of your registration and of your last login are stored
+>alongside the account. This is required to detect and delete spammer
+>accounts (Art. 6.1f). IP addresses and Jabber IDs of identified
+>spammer accounts will be shared with other server operators to
+>prevent further abuse.
+
+Well, storing the IP address is not a good start. You can use Tor for
+this.
+
+**Server logs**
+
+>IP Address and timestamps
+
+Okay, they can see when you log. ehh
+
+Well, the server is OK. but there are better alternatives. Middle tier
+
 # xmpp.jp
 
 Recaptcha for registartion. their privacy policy don't say much. Low
 tier.
 
+# e2e.ee
+
+>How can we figure out who you are? We can’t.  
+>Will we ever share data about you with others? No! We don’t know who your are.  
+>Do you control the chats and data you place on this server? Yes! You can delete them at your discretion.  
+
+Seems nice! 
+
+>e2e.ee uses IP information to ensure that the service is not
+>abused. IP addresses are recorded for the following objectives:
+
+>Allow the creation of one account per IP address every 6 hours IP
+>Addresses are recorded on the webiste for these reasons only. The
+>records expire and are deleted from the server continuously, always
+>within 6 hours.
+
+/!\\ IP address are logged /!\\ But at least they're deleted within 6
+hours.
+
+Also
+
+>An XMPP ID, also known as a Jabber ID, is never associated with an IP
+>address.
+Which is good
+
+>Prosody XMPP Server logs IP addresses when a login fails. This
+>information is used to keep accounts safe from brute force
+>attacks. Prosody XMPP Server never logs IP addresses in association
+>with actual XMPP IDs.
+
+Like with trashserver, don't input a bad password. And prosody never
+logs IP addresses.
+
+Well, their website could have better IP address logging. Middle-High tier.
+
+Then i realized I cannot register in my IP because "fraud IP address"
+
+Then I tried in Tor, I also couldn't because "Proxy address". What a Joke. Low tier.
+
+# sum7.eu
+
+This is the community which developed conv6ations, thanks guys! But
+they also let you use sum7.eu as XMPP server. when you go to
+<https://sum7.eu> their privacy policy link says "Privacy policy: we
+save nothing!"  
+
+>We do not use external services like GoogleAnalytics, external fonts
+>or GoogleMaps.
+
+So far, so good... So what?
+
+But now we have this:
+
+>From your Website request is only saved:
+>Address Family: IPv4 or IPv6
+>Requested Domain: e.g. chat.sum7.eu
+>Duration of delivery: How long a request take time (in histogram cumulated in buckets)
+
+Thought you guys didn't send anything!
+
+>For easy use, there is Message Archiving enabled by
+>default. Hopefully you use OMEMO or you should disable MAM. Otherwise
+>your messages are stored plain on this server for other clients.
+
+Yeah, use OMEMO and disable MAM, as always
+
+>HTTP-Uploads are stored for 7 days before it will be deleted
+>automatically. Accounts after 1 year unused will be deleted.
+
+Good.
+
+I mean, sum7 didn't give a lot of info, although you create an account
+directly from the client. Idk if you can create it through Tor
+(probably you can). idk, middle/high tier.
+
 # Summary
 
-Use trashserver, snopyta or lqdn.
+Most servers have their flaws. Snopyta requires an email to
+register. You cannot register in trashserver nowadays. lqdn does not
+support http\_upload
+
+The best thing you could do is
+Trashserver->Snopyta->sum7->yaxim->e2eee->lqdn
+
+Don't bother with 404.city it is shit tier.
+
+You should ***ALWAYS*** use OMEMO/PGP to protect your messages. And
+connet through Tor if possible. Some clients support giving a
+hostname. You put the .onion as hostname. But the regular domain as
+Jabber ID. Something like this:
+
+![Jabber XMPP onion](/1601114222.png)

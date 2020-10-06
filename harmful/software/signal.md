@@ -78,7 +78,7 @@ because you need the private key to sign. Also the passphrase in any
 sane implementation of OpenPGP, BTW F-Droid signs the packages
 automatically.
 
-## Centralization
+# Centralization
 
 Signal claims to be a P2P messenger, this is true I guess. But what is
 not true is that the whole system is P2P. It has **centralized

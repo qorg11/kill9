@@ -9,7 +9,7 @@ body { background-color: #ffffee;}
 h1,h2,h3,h4,h5,h6, p{
     color:maroon!important;}
 
-p {
+p,li,ul,ol {
     color:maroon!important;
 }
 #footer {background-color: #f0e0d6!important;}
