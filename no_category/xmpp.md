@@ -77,7 +77,46 @@ Alright, they store, your **IP Address** and when you connected. Don\'t
 even think on creating an account here. And would give info to feds
 **SHIT TIER**
 
-Also, the website is **cuckflared**
+Also, the website is cuckflared
+
+on top of that, <xmpp://nuegia.net> admin sent a text to me:
+
+>404.city has more problems than you specified. For one, choosing an
+>account on 404.city is actively harmful to the federation as you are
+>unable to send messages or contact 404.city users unless they add you
+>to your roster first. Even worse 404.city users are not notified when
+>someone trying to contact them has been blocked. The message is just
+>dropped from their perspective.
+
+>the operator of 404.city is notoriously hard to contact, in fact his
+>domain he used for contact, faceless.city no longer exists. Sometimes
+>the operator pops up in the XSF operators chat, other times i have to
+>ask around in general for someone who knows him to ping him for me.
+
+>the operator of 404.city is not very responsive to issues, and almost
+>always will blame you for making a mistake when you contact them about
+>a service or interoperability issue until you explain it 3 times over
+>with XML traces what's going on and why it's their problem not mine.
+
+>To top this all off, the service is unreliable, frequently having
+>outages and is laggy. Responses to and from the server even if your an
+>external user connecting to a muc there are SECONDS behind on transaction
+
+The first paragraph is the most harmful in my opinion, because XMPP is
+good because it's a federation. But 404.city breaks the federation by
+only allowing contacts to message you **Remember that they keep the
+contact list**. So they fucking **literally** know who you talk to. In
+other servers you can make the server admins don't know who you talk
+to by just texting them, instead of adding them to contacts, but
+404.city makes this not possible.
+
+I don't know what he mean by faceless.city does not exist. It exist
+but it is cuckflared (and a non-existing website is better than a
+cuckflared one)
+
+But when he mentions that the operator is impossible to contact,
+that's true, partly because [He](/404fail1.png) [don't
+know](/404fail2.png) [English](/404fail3.png)
 
 Snopyta
 =======

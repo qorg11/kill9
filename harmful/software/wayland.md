@@ -9,3 +9,11 @@
 >replacing X.
 
 -- Anon
+
+>wayland is like the cheese i bought 1 month ago
+>1 month ago it was new sure
+>but then it just got rotten because it was never put in the fridge
+>except with wayland it should be the opposite of the fridge, it should get developed faster
+>since it's this incomplete this many years passed
+
+-- Diego
