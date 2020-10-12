@@ -1,5 +1,7 @@
 # JavaScript and its consequences have been a disaster for the human race
 
+OR: Manmade virus infecting the world.
+
 JavaScript is a programming language often used on websites. To create
 dynamic content on client end. Some dudes thought that extracting the
 V8 (chromium javascript interpreter) and making it a executable file
@@ -20,6 +22,16 @@ JavaScript nowadays. Adding ***USELESS*** function i'd never like to
 use, or functions I already disabled on my browser. Such as smooth
 scrolling. I hate smooth scrolling. But some websites force me to use
 it because JavaScript.
+
+Not to mention the fucking thing runs like shit because developers
+don't really know how to write this abyss programming language. For
+example, In a good browser (pale moon), Javascript runs like shit
+(IT'S A FEATURE). No I mean, literally, Tweetdeck runs 100 times
+better than fucking regular twitter.com.
+
+And remember, if you use a good browser (pale moon), which has slow
+javascript interpretation, haha! good luck browsing the web with
+javascript enabled! it will be fucking impossible
 
 ## Idiocy examples
 
@@ -51,7 +63,7 @@ it because JavaScript.
 
 ~~~
 
-## Disabling JavaScript
+# Disabling JavaScript
 
 Unless you only use 1.0 websites. Disabling javascript will broke your
 internet experience, but will make it way faster. just install
@@ -93,11 +105,11 @@ truly stupid. And a lazy way to do programming.
 
 Here's what is needed to run a program (Written in a compiled language) in GNU/Linux:
 
-<img src="C.png" width=300px>
+<img src="C.png" width=300>
 
 And this is what is needed to run a program written in electron:
 
-<img src="Electron.png" width=300px>
+<img src="Electron.png" width=300>
 
 # Links
 

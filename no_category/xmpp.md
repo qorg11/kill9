@@ -42,7 +42,7 @@ options:
 1.  Use OMEMO/OpenPGP/OTR
 2.  Disable the logging feature in your client.
 
->Contents uploaded via http~upload~ remain stored on the server for 4
+>Contents uploaded via http_upload remain stored on the server for 4
 >weeks
 
 If you don\'t want content to be in trashserver\'s. Don\'t upload files
