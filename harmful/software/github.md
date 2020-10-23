@@ -34,7 +34,14 @@ GitHub is based in the Land of the Free (the place which you can call
 yourself free, but cannot download a torrent, i mean United States),
 it implies it can be DMCA'd
 
-Well, youtube-dl, a very great program I use nearly every day, got
-dmca'd for some reason i simply can't understand. 
+Well, youtube-dl, a very great program I use nearly every day, [got
+dmca'd](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md)
+for some reason i simply can't understand.
+
+Why did it get dmca'd? literally no reason, youtube-dl is only a
+program to download youtube videos (and from other sites). I guess
+they dmca'd it because you can use it to download copyrighted
+material, alright, then dmca'd all the browsers, because you can use
+them to download (and view) copyrighted material
 
 ## SETUP YOUR OWN GIT SERVER OR MOVE TO CODEBERG
