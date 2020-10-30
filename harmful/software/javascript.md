@@ -46,6 +46,16 @@ javascript enabled! it will be fucking impossible
 <false == "0"
 >true
 
+<'0' == 0
+>true
+
+<'\t' == 0
+>true
+<[] == 0
+>true
+<'\t' == []
+>false
+
 <false == undefined
 >false
 >false == null
