@@ -95,7 +95,7 @@ chromium with marketing)
 The syntax was written by a gorilla, it uses camelCase, (I don't
 like it, but well, i can live with it).
 
-for example, `in JS you do document.getElementById("foobar");` I guess
+for example, in JS you do `document.getElementById("foobar");` I guess
 this is ok, but like I said, this was written by a monkey, becuase
 then we have functions: `XMLHttpRequest` <-- What the hell?  Why is
 XML capitalized, but Http isn't?  A good language, let's say, C, would
