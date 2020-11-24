@@ -13,6 +13,14 @@ seen. What they recollect, how to register to them and stuff like that.
 
 I am **NOT** going to dig into terms of service. Only privacy. 
 
+## What to check in a XMPP server?
+
+Well, first thing you should check is for *how long* they keep IP
+addresses. (Or if they don't collect IP addresses, like some services
+do). You shold also check if they provide a **v3** onion address (so
+you can connect anonymously to it). And you should check **what kind
+of data** they ask for in the registration.
+
 Trashserver.net
 ===============
 
@@ -169,6 +177,20 @@ surrender to the goverment) then it is high tier.
 
 Wait what? You're telling me that Riseup accepts non-trusted
 connections?  WHAT? ABORT EVERYTHING. NEVER USE THIS
+
+Disroot
+=======
+
+[privacy policy](https://disroot.org/es/privacy_policy) 
+
+They require a email address for signing up (altough they provide
+e-mail services). But i'm only caring for XMPP in this article,
+in XMPP they collect:
+
+* **IP address** (deleted after 24 hours)
+
+Apparently that's it. But they log IP addresses and they require Email
+address for signing, and i didn't see any .onion hostname for their XMPP server, so mid tier
 
 jabber.lqdn.fr
 ==============

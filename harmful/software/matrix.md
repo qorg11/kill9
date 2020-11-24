@@ -1,3 +1,17 @@
+>I hosted a matrix server and explored Riot. You can tell they've
+>invested a lot into the UI. There's some 'dark pattern design' going
+>on too, like their "data collection dialog." They want you to
+>consent. Encryption isn't on by default, and when you do turn it on
+>the program prompts you to 'backup' your keys where "we'll store an
+>encrypted copy of your keys on our server." There is so much push to
+>harvet data from you in some way or another. For an apparently "open
+>source," "private," and "federated" program there seems to be an
+>insidious push to be the polar opposite. The project wants to
+>eventually move away from matrix usernames to phone numbers or e-mail
+>addresses to identify users.
+
+--- [lainon](https://lainchan.org/sec/res/10513.html#q10557)
+
 # Matrix, Riot, Element, Synapse, Vector... I don't know how it is called anymore
 
 Hey that's first problem! nobody knows how to find your service!
