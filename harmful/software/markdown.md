@@ -22,5 +22,6 @@ bloated!) you have to fallback to HTML.
 
 ## Alternatives
 
+* plain text
 * org-mode
 * Jumping in the eye of a hurricane

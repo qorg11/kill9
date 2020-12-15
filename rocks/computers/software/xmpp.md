@@ -26,7 +26,8 @@ plus centralization makes it perfect for privacy.
 
 * not run by a russian mobster
 * Descentralizated
-* Built-in cryptography
+* You can enable encryption in a desktop client
+* You can setup your own server
 * Does not require phone number
 
 ## xmpp advantages over Signal
@@ -34,6 +35,7 @@ plus centralization makes it perfect for privacy.
 * Does not require phone number (kek, a privacy oriented software
   requires your phone number)
 * You can trust the encryption
+* You can setup your own server
 
 ## xmpp flaws
 
