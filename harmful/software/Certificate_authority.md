@@ -33,7 +33,7 @@ shill, you get this:
 Browser may say that the website is insecure and shit, but it isn't:
 the connection is still **perfectly** secure between you and the
 server. Or even stronger, since self signed certs can be whatever you
-want, RSA8192, ECC512, you name it. 
+want, RSA8192, ECC512, you name it.
 
 I trust more **my friend's** signature than some random corporation,
 who got their signature *hardcoded* in browsers.

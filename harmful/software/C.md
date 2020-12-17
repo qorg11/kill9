@@ -13,7 +13,7 @@ The preprocessor
 
 Thank you for making me understand why I got a segfault![^1]
 
-~~~c
+~~~
 int sum(int a, int b) {
  return a + b;
 }

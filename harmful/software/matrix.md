@@ -50,8 +50,8 @@ What else do I have to say?
 | blank                | XMPP                     | Matrix                            |
 |----------------------|--------------------------|-----------------------------------|
 | Open protocol?       | Yes                      | Yes but no                        |
-| Commercialn project? | No                       | New Vector develops Element       |
-| Encryption           | OMEMO, OTR, PGP          | OLM                               |
+| Commercial project?  | No                       | New Vector develops Element       |
+| Encryption           | OMEME, OTR, PGP          | OLM                               |
 | Monopoly Network?    | Many servers and clients | Most users use Element+Matrix.org |
 
 # BTW, how the fuck do I setup a fucking Matrix server?
