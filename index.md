@@ -12,7 +12,7 @@ Any article in this website is WIP. And they will always be WIP.
 
 ## Contributing to this website
 
-Go to the [Codeberg repository](https://Codeberg/qorg11/kill9), fork
+Go to the [Codeberg repository](https://codeberg.org/qorg11/kill9), fork
 it, change whatever, make a pull request, ill merge, and your change
 will appear here. If you don't want to use Git,
 [email](mailto:qorg\[@\)vxempire.xyz) me a diff and I'll patch the
