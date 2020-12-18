@@ -12,7 +12,7 @@ Any article in this website is WIP. And they will always be WIP.
 
 ## Contributing to this website
 
-Go to the [GitLab repository](https://gitlab.com/qorg11/kill9), fork
+Go to the [Codeberg repository](https://Codeberg/qorg11/kill9), fork
 it, change whatever, make a pull request, ill merge, and your change
 will appear here. If you don't want to use Git,
 [email](mailto:qorg\[@\)vxempire.xyz) me a diff and I'll patch the
@@ -33,7 +33,7 @@ Please note that that RSS feed can have any kind of crap. From "fixed
 typos" to a whole new article. Anyways, I hope it helps you.
 
 <a href="http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/">Onion</a><br/>
-[Eepsite](http://3i3bbs2zfabyleqxcqueeegakutrtk3hbxmvbtkrgwvetlmity4q.b32.i2p/)
+[Eepsite](http://3i3bbs2zfabyleqxcqueeegakutrtk3hbxmvbtkrgwvetlmity4q.b32.i2p/)<br/>
 <img src="/satania.jpg" width=500>
 
 <pre style="color:#000000; font-size:10pt; font-family:'Courier New',monospace;"><span style="color:#000000">(</span><span style="color:#000000; font-weight:bold">defconstant</span> NUMBER_OF_PEOPLE <span style="color:#b07e00">10</span><span style="color:#000000">)</span>
