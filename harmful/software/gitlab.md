@@ -12,3 +12,15 @@ What in the actual fuck?
 * it needs JS to work
 * and it is esoteric JS
 
+Still not convinced? Try installing gitlab from source while remaining sane.
+Protip: you can't
+
+https://docs.gitlab.com/ee/install/installation.html
+
+If you still manage to get through this hell of a setup then enjoy the 700kB JS that it requires.
+
+$ curl --head https://gitlab.example.dom/assets/webpack/main.909b7bb7.chunk.js
+HTTP/2 200
+content-type: application/javascript
+**content-length: 692119**
+
