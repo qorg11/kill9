@@ -339,6 +339,42 @@ I mean, sum7 didn't give a lot of info, although you create an account
 directly from the client. Idk if you can create it through Tor
 (probably you can). idk, middle/high tier.
 
+# xabber.org
+
+Need recaptcha to create account, privacy policy is ok. middle-low
+tier
+
+# dismail.de
+
+Privacy policy is in German, and i don't speak German, however, trying
+they specify in their [xmpp service
+info](https://dismail.de/info.html#xmpp) that you s2s is required
+(this is good) and also c2s, also provide a v2 and v3 onion addresses,
+and the fingerprints for their SSL certs.
+
+No recaptcha is needed for registration, high tier
+
+# blabber.im
+
+Website made by the pix-art dev, pix-art is (was, apparently now it's
+called blabber), it is a fork of conversations, like sum7, they let
+you use their server for XMPP. Their privacy policy says:
+
+* No IP addresses logged
+* Passwords are stored in SCRAM-SHA1
+
+I don't know how good this is, because SHA-1 is broken (look up
+shattered)
+
+* No input of personal data is necessary
+
+This is true, You only have to input username and password.
+
+However, the program in
+[F-Droid](https://f-droid.org/en/packages/de.pixart.messenger/) says
+that this app tracks and reports your activity. And it just makes me
+suspect. ? tier
+
 # Summary
 
 Most servers have their flaws. Snopyta requires an email to
