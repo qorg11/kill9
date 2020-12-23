@@ -1,17 +1,10 @@
-<style>
-li{color:white;}
-</style>
 # free(malloc(sizeof("C is a great programming language")));
 
-C is a great progr.... segmentation fault
-
-Who wrote the functions? I mean: fprintf, sscanf, isalnum...
-
-Lack of lambdas
-
-The preprocessor
-
-Thank you for making me understand why I got a segfault![^1]
+* C is a great progr.... segmentation fault
+* Who wrote the functions? I mean: fprintf, sscanf, isalnum...
+* Lack of lambdas
+* The preprocessor
+* Thank you for making me understand why I got a segfault![^1]
 
 ~~~
 int sum(int a, int b) {
