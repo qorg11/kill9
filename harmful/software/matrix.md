@@ -45,14 +45,24 @@ this is different:
 
 What else do I have to say?
 
+# matrix.org is cloudflared
+
+This means that Cloudflare has all the request you've made to
+matrix.org
+
+Also remember that main Matrix server is matrix.org (remember that
+decentralisation is a meme in matrix, everyone uses matrix.org), and
+matrix is a HTTP based protocol, so everything you do in matrix, is
+sniffed by cloudflare.
+
 # Comparision to XMPP
 
-| blank                | XMPP                     | Matrix                            |
-|----------------------|--------------------------|-----------------------------------|
-| Open protocol?       | Yes                      | Yes but no                        |
-| Commercial project?  | No                       | New Vector develops Element       |
-| Encryption           | OMEME, OTR, PGP          | OLM                               |
-| Monopoly Network?    | Many servers and clients | Most users use Element+Matrix.org |
+| blank               | XMPP                     | Matrix                            |
+|---------------------|--------------------------|-----------------------------------|
+| Open protocol?      | Yes                      | Yes but no                        |
+| Commercial project? | No                       | New Vector develops Element       |
+| Encryption          | OMEME, OTR, PGP          | OLM                               |
+| Monopoly Network?   | Many servers and clients | Most users use Element+Matrix.org |
 
 # BTW, how the fuck do I setup a fucking Matrix server?
 
