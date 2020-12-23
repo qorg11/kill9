@@ -71,3 +71,6 @@ fucking literally couldn't, why do I have to setup nginx? I mean, yes,
 XMPP does also depend on Nginx but is highly optional. (just for HTTP
 file upload and nothing else) but Matrix FULLY depends in HTTP
 apparently.
+
+* [Apparently it is impossible to configure Synapse to use
+  IPv6](https://mstdn.social/@stux/105414762591471537)
