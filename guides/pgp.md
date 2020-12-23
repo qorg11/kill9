@@ -28,7 +28,7 @@ You need a key-pair to encrypt and sign files, this can be made with
 `gpg --full-gen-key --expert`
 
 Why --full-gen-key and --expert? instead of --gen-key? --gen-key does
-not provide a way to specify which kind of key we weant, (or the size
+not provide a way to specify which kind of key we want, (or the size
 of said key) but we can specify it with --expert. It will ask for a
 name, e-mail and a comment, this can be obviously be fake, the comment
 [should be
@@ -203,7 +203,7 @@ CgkQufgaaKkyPexVdgEAhqe/3a0vQKUhQrVlb8Aj++znpPt4+/x2YIof7yx/vA4A
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-You can share that key anywhere, even in an insecure wey because it is
+You can share that key anywhere, even in an insecure way because it is
 a public key.
 
 To import someone else's key, you have to save it in a file, (for
@@ -216,7 +216,7 @@ Now that you have someone's key, you'd me able to use it to encrypt
 files. To do this, simply run `gpg --encrypt --armor -r
 someone@example.tld file_to_encrypt`
 
-That will generate an .asc file, which you'll send to the destinatary
+That will generate an .asc file, which you'll send to the destination
 any way, even insecure, only the user with the private key will be
 able to read it
 
@@ -307,7 +307,7 @@ Note the "Good Signature" part.
 ## Signing text and... that's it
 
 If you want to make a public announcement and want to give the readers
-the posibility to know that you're who you claim to be, you use the
+the possibility to know that you're who you claim to be, you use the
 --clear-sign flag
 
 ```
@@ -381,10 +381,57 @@ other for binary files. Such as .iso and .tar files.
 Anyone who wants to verify a file signed by you, needs your public
 key.
 
+# Symmetric encryption
+
+Symmetric cryptography uses a secret, shared passphrase for encrypting
+documents, rather than a public key to encrypt and a private key to
+decrypt. gpg also allows to use symmetric cryptography to encrypt
+documents, which have to be decrypted using the passphrase.
+
+`gpg --symmetric --armor --cipher-algo AES256`
+
+we use `--cipher-algo AES256` because gpg currently defaults to AES128, which
+is less secure than AES256.
+
+
 # Configuring software to use pgp
 
-TODO
+Most software have friendly ways to use PGP, so you don't have to run
+`gpg --encrypt` and `gpg --decrypt` every time. 
+
+## Mutt
+
+Mutt is a mail client for the terminal, it has built-in pgp support,
+to enable it, paste the following in your muttrc:
+
+~~~
+set crypt_opportunistic_encrypt = yes
+set pgp_self_encrypt = yes
+set pgp_default_key  = <YOUR KEY ID>
+set crypt_autosign = yes
+
+~~~
+
+* `crypt_opportunistic_encrypt` is for always encrypt emails if you have
+the recipient's public key.
+* `pgp_self_encrypt` is for encrypt the email also for you, so you'd be
+able to read it.
+* `pgp_default_key` is self descriptive
+* `crypt_autosign` makes every email signed.
+
+## Dino
+
+Dino is a Jabber/XMPP client for GNU/Linux /BSD/The apple
+garbage
+
+1. Click in the 3 lines menu in the left
+2. Click in accounts
+3. Click in OpenPGP
+4. Select the key you want to announce
+5. Send your public key to your contacts
+6. Tell your friends to do the same
 
 # pgp in android
 
 TODO
+
