@@ -20,3 +20,21 @@ thankfully, new clients are adding some "verified" keys, and it will
 warn you when a message was send from an untrusted key, or you'll
 simply won't recieve messages from untrusted keys
 
+## File encryption
+
+When you upload something using http_upload using omemo, the file is
+encrypted, but using AES *symmetric* cryptography, rather than
+recipient's public key and your public key. As it is symmetric
+cryptography the passphrase is stored somewhere else, in this case, it
+is stored **in the URI**. Meaning that if an attacker could get the
+URI you've sent, they could get the file.
+
+Obviously, this is not likely to happen because the message with the
+URI is encrypted with TLS and OMEMO, but I think the file should've be
+encrypted with recipient's public key.
+
+The reason of this (i think) is that so you can use another tools to
+download omemo files. Like omemo-wget.
+
+Anyways, if you want to share files and get encrypted on-the-go you
+can always use pgp.
