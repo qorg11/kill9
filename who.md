@@ -1,5 +1,6 @@
 # who
 
-This website is made by its contributors, and the main ones are qorg11 and callcc
+This website is made by its contributors and hosted by [qorg11](https://qorg11.net). 
 
-You can contact them on email, with the email addresses qorg@vxempire.xyz and callcc@vxempire.xyz
+You can get a list of the contributors
+[here](https://codeberg.org/qorg11/kill9/commits/branch/master)

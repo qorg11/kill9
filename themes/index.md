@@ -9,13 +9,16 @@ To install these themes, just use stylus, since stylish is botnet.
 
 These themes are in the public domain.
 
-[SICP](https://kill-9.xyz/sicp.css)
+[SICP](/sicp.css)
 
-[Yotsuba](https://kill-9.xyz/yotsuba.css)
+[Yotsuba](/yotsuba.css)
 
-[Yotsuba B](https://kill-9.xyz/yotsubab.css)
+[Yotsuba B](/yotsubab.css)
 
-[Tomorrow](https://kill-9.xyz/tomorrow.css)
+[Tomorrow](/tomorrow.css)
 
-[Fauux](https://kill-9.xyz/fauux.css)
+[Fauux](fauux.css)
 
+[cat -v](/cat-v.css)
+
+[Dark Green](/darkgreen.css)

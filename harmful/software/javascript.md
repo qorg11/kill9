@@ -125,5 +125,6 @@ And this is what is needed to run a program written in electron:
 
 [JAVASCRIPT WAS A MISTAKE](http://www.bordi.ga/blog_shit/js.html)
 
-![Tom Araya can't scream like i'm internally screaming
-rn](/1592614085502.png)
+![](/1592614085502.png)
+
+![](/1610633628.png)

@@ -78,9 +78,13 @@ because you need the private key to sign. Also the passphrase in any
 sane implementation of OpenPGP, BTW F-Droid signs the packages
 automatically.
 
+# Signal desktop
+
+<img src="/1610908987.png" width=700/>
+
 # Centralization
 
-Signal claims to be a P2P messenger, this is true I guess. But what is
+Signal claims to be a P2P messenger[^1], this is true I guess. But what is
 not true is that the whole system is P2P. It has **centralized
 servers**
 
@@ -112,13 +116,24 @@ Because they're trying to convince computer novices to use a secure
 IM, you know, I don't expect my grandmother to setup her own XMPP
 server. But I can expect her to use Signal since it is made for novices.
 
+# Paranoia
+
+Jack (Twitter's CEO), Elon Musk (Guy who wants to literally backdoor your brain) are suddendly recommending signal.
+
+These guys sells your data to the highest bidder, why are them suddendly recommending a "private" and "secure" IM?
+
 # Conclusion
 
 XMPP does not have any of these problems.
 
-Okay, Signal is good, but the things we have talked about here is not
+Okay, <s>Signal is good</s>, but the things we have talked about here is not
 what you expect from a "security focused" program. The chat itself is
 P2P, and that's good. Also it is encrypted. So if you have to choose
 between \<big corporate owned IM\> and Signal, choose Signal.
 
 Did I mention it needs phone number to work?
+
+
+
+[^1]: Signal services died in 2021-01-15. How could have this have
+happened is it is P2P?

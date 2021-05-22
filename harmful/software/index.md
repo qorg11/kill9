@@ -90,8 +90,8 @@ extensions are kinda useful. So I don't consider them harmful.
     <td>runit, OpenRC, SysVinit</td>
   </tr>
   <tr>
-    <td>MIT, BSD</td>
-    <td>GPL, [VPL](https://viralpubliclicense.org/), [K9PL](https://gitlab.com/call-cc/k9core/-/raw/master/LICENSE)</td>
+    <td>GPL, LGPL</td>
+    <td>BSD, MIT, VPL, AGPL</td>
   </tr>
   <tr>
     <td>pacman, dnf, yum, dpkg</td>

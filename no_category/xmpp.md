@@ -65,7 +65,7 @@ Awesome! This server seems good!
 Aw, shit.
 
 Good server. But be sure to always use OMEMO/PGP/OTR so this last point
-is less harmful. Middle tier.
+is less harmful. High tier.
 
 404.city
 ========
@@ -322,7 +322,7 @@ But now we have this:
 >Requested Domain: e.g. chat.sum7.eu
 >Duration of delivery: How long a request take time (in histogram cumulated in buckets)
 
-Thought you guys didn't send anything!
+Thought you guys didn't save anything!
 
 >For easy use, there is Message Archiving enabled by
 >default. Hopefully you use OMEMO or you should disable MAM. Otherwise

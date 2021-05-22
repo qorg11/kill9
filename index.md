@@ -32,9 +32,11 @@ that RSS feed.
 Please note that that RSS feed can have any kind of crap. From "fixed
 typos" to a whole new article. Anyways, I hope it helps you.
 
-<a href="http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/">Onion</a><br/>
-[Eepsite](http://3i3bbs2zfabyleqxcqueeegakutrtk3hbxmvbtkrgwvetlmity4q.b32.i2p/)<br/>
-<img src="/satania.jpg" width=500>
+## TODO
+
+This website is somehow outdated.
+
+<img src="/satania.jpg" width=500 alt="satania">
 
 <pre style="color:#000000; font-size:10pt; font-family:'Courier New',monospace;"><span style="color:#000000">(</span><span style="color:#000000; font-weight:bold">defconstant</span> NUMBER_OF_PEOPLE <span style="color:#b07e00">10</span><span style="color:#000000">)</span>
 <span style="color:#000000">(</span><span style="color:#000000; font-weight:bold">defvar</span> <span style="color:#000000">*</span>i<span style="color:#000000">*</span> <span style="color:#b07e00">0</span><span style="color:#000000">)</span>
@@ -53,3 +55,5 @@ typos" to a whole new article. Anyways, I hope it helps you.
 
 
 car car car car cdr cdr cdr cdr car cdr eval apply car cdr eval apply car cdr eval apply car cdr eval apply car cdr eval apply car cdr eval apply 
+
+We are the most honored hackers that have put a feet in this earth in million of years... and we are not honored.

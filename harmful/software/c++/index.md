@@ -24,11 +24,19 @@ max-width:75%;
 
 --- smcameron
 
-## Object oriented
+>I invented the term object oriented, and I can tell you that C++
+>wasn't what I had in mind.
+
+--- Alan Kay
+
+
+
+
+# Object oriented
 
 So automatically sucks.
 
-## Ugly syntax
+# Ugly syntax
 
 The only non-ugly part of C++ is the headers' name: iostream, cmath,
 ctime, thread, etc. Unlike in C, where they are ugly as shit: stdio.h,
@@ -61,7 +69,7 @@ Now what the fuck is std:: and why do I have to write << just to print some shit
 
 Note: you can skip the std:: part with ```using namespace std``` but this is a [bad practice](https://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
 
-## Error messages
+# Error messages
 
 in the following code:
 
@@ -220,8 +228,73 @@ a.cc:5:35: error: found ‘:’ in nested-name-specifier, expected ‘::’
 </p>
 (In GCC)
 
-## Compatibilty
+# Objects are stupid
+
+
+```
+std::string spurdo = "sparde"
+```
+
+where spurdo is an object
+
+`spurdo.c_str() // converts the string to a C '\0' terminated
+string.`
+
+In C, strings are an array of chars, in C++, they're an object, with
+methods.
+
+# Compatibilty
 
 C++ is "compatible" with C
 
 But this can break most C programs
+
+# A sad story about c++ executables
+
+~~~
+<lucy>  try to strip the executable
+<lucy>  Did it change anything?
+<qorg11>  strip?
+<lucy>  "strip a.out"
+<lucy>  It removes unused stuff
+<lucy>  like debug symbols and similar
+<qorg11>  qorg@satania ~> md5sum a.out       
+ cd1cc93ac2ea0c8129042e96ae7d65e7  a.out
+ qorg@satania ~> strip a.out
+ qorg@satania ~> md5sum a.out
+ e6e6e1ea132edb67c6005e703ebe7c81  a.out
+<qorg11>  yeah?
+<lucy>  and now compare the assembly code
+<qorg11>  how
+<qorg11>  do i disassembly it or what
+<lucy>  how did you do it before?
+<qorg11>  g++ -S
+<qorg11>  lol
+<lucy>  oof
+<lucy>  maybe just compare the filesize
+<qorg11>  qorg@satania ~> gcc mtx.c -lcurses -lpthread 
+ qorg@satania ~> du -h a.out                                                       
+ 24K	a.out
+<qorg11>  qorg@satania ~> g++ mtx.cc -lcurses -pthread 
+ qorg@satania ~> du -h a.out
+ 40K	a.out
+<qorg11>  now with -Os
+<qorg11>  qorg@satania ~> gcc mtx.c -lcurses -lpthread -Os
+ qorg@satania ~> du -h a.out
+ 24K	a.out
+<qorg11>  lol
+<qorg11>  qorg@satania ~> g++ mtx.cc -lcurses -pthread -Os
+ qorg@satania ~> du -h a.out
+ 24K	a.out
+<qorg11>  congrats c++!
+<qorg11>  exact filesize: 23488 (according to stat)
+<lucy>  now the stripped versions
+<qorg11>  stat'd c version: 21520
+<qorg11>  stripped c++ 14680
+<qorg11>  stripped c: 14472
+<lucy>  a considerably smaller difference
+<lucy>  So c++ is bloated up with debug symbols, awesome
+<qorg11>  lol
+<qorg11>  can i take a log of this and put it in kill-9.xyz/harmful/software/c++?
+
+~~~
