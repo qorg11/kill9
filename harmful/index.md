@@ -2,6 +2,8 @@
 
 Here I complain about things that I think they suck
 
+Taking something here seriously, depends on you.
+
 ## For software
 
 Be aware that in the section about software I'm not saying "STOP USING

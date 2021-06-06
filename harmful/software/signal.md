@@ -80,7 +80,7 @@ automatically.
 
 # Signal desktop
 
-<img src="/1610908987.png" width=700/>
+![Plus it is made in electron](/signal_desktop)
 
 # Centralization
 

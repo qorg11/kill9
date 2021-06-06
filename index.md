@@ -10,17 +10,25 @@ license. Images might or might not be under that license.
 
 Any article in this website is WIP. And they will always be WIP.
 
-## Contributing to this website
+# Contributing to this website
 
-Go to the [Codeberg repository](https://codeberg.org/qorg11/kill9), fork
-it, change whatever, make a pull request, ill merge, and your change
-will appear here. If you don't want to use Git,
-[email](mailto:qorg\[@\)vxempire.xyz) me a diff and I'll patch the
-file. Atribution will be given if wanted.
+You can contribute to kill-9 either writting things or donating
 
-If you want to request an article, just submit an issue or email me.
+## Writing
 
-## RSS feed
+Clone the thing from the [git
+repo](https://git.qorg11.net/kill9.git). Make whatever changes and
+send them to me. If possible using `git-send-email(1)` but sending a
+.diff (made with `git-diff(1)`, obviously) is also acceptable.
+
+## Donating
+
+You can donate to kill-9 using
+[Bitcoin](bitcoin:bc1qghl6f27dpgktynpvkrxte2s3gm9pcv8vlwuzum) or
+[Monero](monero:47QTumjtqJabbo1s9pLDdXeJarLVLfs1AaEcbi1xrEiV852mqcbe5AHLNXTk7tH9MscxcxQDfJQnvH5LpxvfgwSJQZ3zbS6)
+
+
+# RSS feed
 
 Since we use a fucking wiki software and this is not a blog we don't have a RSS feed.
 
