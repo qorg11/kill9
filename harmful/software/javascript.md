@@ -127,10 +127,6 @@ And this is what is needed to run a program written in electron:
 
 ![](Electron.png)
 
-# Links
-
-[JAVASCRIPT WAS A MISTAKE](http://www.bordi.ga/blog_shit/js.html)
-
 ![](/1592614085502.png)
 
 ![](/1610633628.png)
