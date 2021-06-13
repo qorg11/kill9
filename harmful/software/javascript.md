@@ -121,11 +121,11 @@ truly stupid. And a lazy way to do programming.
 
 Here's what is needed to run a program (Written in a compiled language) in GNU/Linux:
 
-![C.png]()
+![](C.png)
 
 And this is what is needed to run a program written in electron:
 
-![Electron.png]()
+![](Electron.png)
 
 # Links
 
