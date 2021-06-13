@@ -1,11 +1,3 @@
-<style>
-pre {
-overflow:auto;
-table-layout:fixed;
-width: 75%;
-max-width:75%;
-}
-</style>
 # C++ sucks
 
 >C makes it easy to shoot yourself in the foot; C++ makes it harder,

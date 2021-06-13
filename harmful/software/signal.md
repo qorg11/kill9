@@ -80,11 +80,11 @@ automatically.
 
 # Signal desktop
 
-![Plus it is made in electron](/signal_desktop)
+![Plus it is made in electron](/signal_desktop.png)
 
 # Centralization
 
-Signal claims to be a P2P messenger[^1], this is true I guess. But what is
+Signal claims to be a P2P messenger[^1] [^2], this is true I guess. But what is
 not true is that the whole system is P2P. It has **centralized
 servers**
 
@@ -128,7 +128,7 @@ XMPP does not have any of these problems.
 
 Okay, <s>Signal is good</s>, but the things we have talked about here is not
 what you expect from a "security focused" program. The chat itself is
-P2P, and that's good. Also it is encrypted. So if you have to choose
+P2P[^3], and that's good. Also it is encrypted. So if you have to choose
 between \<big corporate owned IM\> and Signal, choose Signal.
 
 Did I mention it needs phone number to work?
@@ -137,3 +137,7 @@ Did I mention it needs phone number to work?
 
 [^1]: Signal services died in 2021-01-15. How could have this have
 happened is it is P2P?
+[^2]: Apparently they never claimed to be a P2P messanger, but some
+    media did tell that Signal is P2P. So some people (like me...)
+    would believe it is P2P
+[^3]: It isn't.

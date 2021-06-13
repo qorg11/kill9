@@ -1,7 +1,13 @@
 # JavaScript and its consequences have been a disaster for the human race
 
-OR: Manmade virus infecting the world.
+>The beach is essentially shit of fish, and we humans love it, we
+>humans love shit
 
+-- Me, circa 2021
+
+(That's why JS is popular)
+
+OR: Manmade virus infecting the world.
 JavaScript is a programming language often used on websites. To create
 dynamic content on client end. Some dudes thought that extracting the
 V8 (chromium javascript interpreter) and making it a executable file
@@ -15,7 +21,7 @@ At the end that doesn't matters. Because it's a useless fact to be
 honest. It only shows how bad designed the shit is. But the pain starts
 when you actually use that programming language.
 
-## Developers idiocy
+# Developers idiocy
 
 First of all the language is slow as fuck. And websites are BLOATED of
 JavaScript nowadays. Adding ***USELESS*** function i'd never like to
@@ -33,7 +39,7 @@ And remember, if you use a good browser (pale moon), which has slow
 javascript interpretation, haha! good luck browsing the web with
 javascript enabled! it will be fucking impossible
 
-## Idiocy examples
+# Idiocy examples
 
 ~~~
 

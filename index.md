@@ -10,6 +10,10 @@ license. Images might or might not be under that license.
 
 Any article in this website is WIP. And they will always be WIP.
 
+# Contact
+
+We have an IRC channel: `#kill-9` in irc.rizon.net
+
 # Contributing to this website
 
 You can contribute to kill-9 either writting things or donating
@@ -24,8 +28,8 @@ send them to me. If possible using `git-send-email(1)` but sending a
 ## Donating
 
 You can donate to kill-9 using
-[Bitcoin](bitcoin:bc1qghl6f27dpgktynpvkrxte2s3gm9pcv8vlwuzum) or
-[Monero](monero:47QTumjtqJabbo1s9pLDdXeJarLVLfs1AaEcbi1xrEiV852mqcbe5AHLNXTk7tH9MscxcxQDfJQnvH5LpxvfgwSJQZ3zbS6)
+[Bitcoin](bitcoin:bc1q59t6z2lqdve7tfu3nc56dkh9djvpzpxllwyek6) or
+[Monero](monero:47QTumjtqJabbo1s9pLDdXeJarLVLfs1AaEcbi1xrEiV852mqcbe5AHLNXTk7tH9MscxcxQDfJQnvH5LpxvfgwSJQZ3zbS6).
 
 
 # RSS feed
@@ -40,11 +44,14 @@ that RSS feed.
 Please note that that RSS feed can have any kind of crap. From "fixed
 typos" to a whole new article. Anyways, I hope it helps you.
 
-## TODO
+# TODO
 
-This website is somehow outdated.
+* Update information in the website
+* Make external images internal
+* Add more articles
+* Remove all `<img>` tag and repleace them with the markdown thing (which will require resizing images)
 
-<img src="/satania.jpg" width=500 alt="satania">
+![](/satania.png)
 
 <pre style="color:#000000; font-size:10pt; font-family:'Courier New',monospace;"><span style="color:#000000">(</span><span style="color:#000000; font-weight:bold">defconstant</span> NUMBER_OF_PEOPLE <span style="color:#b07e00">10</span><span style="color:#000000">)</span>
 <span style="color:#000000">(</span><span style="color:#000000; font-weight:bold">defvar</span> <span style="color:#000000">*</span>i<span style="color:#000000">*</span> <span style="color:#b07e00">0</span><span style="color:#000000">)</span>

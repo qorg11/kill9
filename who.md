@@ -2,5 +2,11 @@
 
 This website is made by its contributors and hosted by [qorg11](https://qorg11.net). 
 
-You can get a list of the contributors
-[here](https://codeberg.org/qorg11/kill9/commits/branch/master)
+You can get the contributors with these commands:
+
+~~~
+git clone https://git.qorg11.net/kill9.git && cd kill9
+
+git log --format="%aN" --reverse | sort | uniq
+~~~
+Customize the output with the `--format` flag.
