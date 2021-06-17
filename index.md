@@ -1,5 +1,9 @@
 # kill-9.xyz
 
+>"kill-9 can't be on a resume because it's too based"
+
+--- [Vane Vander](https://mayvaneday.org)
+
 This is a website made by qorg11. This is a "blog" about anything. It
 runs [werc](http://werc.cat-v.org) as its "cms"
 
