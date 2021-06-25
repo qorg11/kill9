@@ -1,6 +1,6 @@
-# pax(1) is a well done tar(1)
+# `pax(1)` is a well done `tar(1)`
 
-pax(1) allows you to create .tar files in a UNIX way:
+`pax(1)` allows you to create .tar files in a UNIX way:
 
 ~~~
 # create a tar file of a directory
@@ -15,9 +15,9 @@ pax -w directory | gzip > directory.tar.gz
 zcat directory.tar.gz | pax -r
 ~~~
 
-These are tar files, so they're compatible with tar(1)
+These are tar files, so they're compatible with `tar(1)`
 
-You can also use pax(1) in a cringe, non UNIX way:
+You can also use `pax(1)` in a cringe, non UNIX way:
 
 
 ~~~
