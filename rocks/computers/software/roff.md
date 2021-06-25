@@ -61,7 +61,7 @@ a sup 2 over 2
 .EN
 .EQ
 x = {
-b +- sqrt {-b sup 2 * 4ac}
+b +- sqrt {-b sup 2 - 4ac}
 } over 2a
 .EN
 
