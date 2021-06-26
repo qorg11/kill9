@@ -97,7 +97,34 @@ thanks to this great idea we've now worse things
 outside the Chromium browser. Meaning that node is just a part of
 chromium with marketing)
 
+## Idiotic programmers
+
+As JS standard library wasn't enough pain, you can create modules, as
+stated before, JS programmers should not be called programmer as a
+sign of respect to other programmers, for example, the
+`[is-even]`(https://www.npmjs.com/package/is-even) node module:
+
+![](is-even.png)
+
+>\>200k weekly downloads
+
+And if you look the `is-even` source code, you see this:
+
+![](is-odd.png)
+
+`is-even` is just a call to the `is-odd` library, okay
+
+And then, if you go to the [module
+site](https://www.npmjs.com/package/is-odd) you can see how it has
+400K weekly downloads. And if you go to their [GitHub
+site](https://github.com/i-voted-for-trump/is-odd). You have the honor
+to see this:
+
+![](dependences.png)
+
+
 # Syntax
+
 The syntax was written by a gorilla, it uses camelCase, (I don't
 like it, but well, i can live with it).
 
