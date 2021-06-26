@@ -117,6 +117,7 @@ And if you look the `is-even` source code, you see this:
 And then, if you go to the [module
 site](https://www.npmjs.com/package/is-odd) you can see how it has
 400K weekly downloads.
+
 ![](../is-odd.png)
 
 And if you go to their [GitHub
