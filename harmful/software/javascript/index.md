@@ -104,13 +104,13 @@ stated before, JS programmers should not be called programmer as a
 sign of respect to other programmers, for example, the
 `[is-even]`(https://www.npmjs.com/package/is-even) node module:
 
-![](is-even.png)
+![](../is-even.png)
 
 >\>200k weekly downloads
 
 And if you look the `is-even` source code, you see this:
 
-![](is-odd.png)
+![](../is-odd.png)
 
 `is-even` is just a call to the `is-odd` library, okay
 
@@ -120,7 +120,7 @@ site](https://www.npmjs.com/package/is-odd) you can see how it has
 site](https://github.com/i-voted-for-trump/is-odd). You have the honor
 to see this:
 
-![](dependences.png)
+![](../dependences.png)
 
 
 # Syntax
