@@ -15,7 +15,8 @@ to run javascript outside the browser was a good idea and now we're
 doomed.
 
 JavaScript is not only stupid (javascript returns true when) ```true +
-true === 2``` Which means that true is literally ```#define true 1```
+true === 2``` Which means that true is literally ```#define true
+1```. `null` is `object` for some reason...
 
 At the end that doesn't matters. Because it's a useless fact to be
 honest. It only shows how bad designed the shit is. But the pain starts
