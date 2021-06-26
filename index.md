@@ -18,6 +18,9 @@ Any article in this website is WIP. And they will always be WIP.
 
 We have an IRC channel: `#kill-9` in irc.rizon.net
 
+You can join to the IRC channel using XMPP joining to this MUC:
+#kill-9%irc.rizon.net@irc.kalli.st (change irc.kalli.st to your prefered irc to xmpp bridge if you have one)
+
 # Contributing to this website
 
 You can contribute to kill-9 either writting things or donating
