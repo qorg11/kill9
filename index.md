@@ -7,7 +7,7 @@
 This is a website made by qorg11. This is a "blog" about anything. It
 runs [werc](http://werc.cat-v.org) as its "cms"
 
-The theme is Yotsuba B
+The theme is "Dark Green"
 
 Anything that I've written in this website is under CC BY SA
 license. Images might or might not be under that license.
