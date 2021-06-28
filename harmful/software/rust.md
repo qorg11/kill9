@@ -26,3 +26,5 @@ foo(c_str!("my string"));
 ```
 
 I'll add more things later, I'm busy rewriting Rust software in C ;-)
+
+![](rust.png)
