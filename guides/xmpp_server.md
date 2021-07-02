@@ -1,3 +1,6 @@
+<style>
+</style>
+
 # How to setup a prosody server
 
 In this guide i'm going to show how to make a prosody (XMPP)
@@ -79,22 +82,19 @@ cert import /usr/local/etc/letsencrypt/live/
 Now, you have to give prosody that certificate, you have to put it
 twice for some reason, like this:
 
-<pre class="hl">ssl <span class="hl opt">= {</span> key <span
-	class="hl opt">=</span> <span class="hl
-	sng">&quot;certs/flatline.fr.to.key&quot;</span><span class="hl
-	opt">;</span> certificate <span class="hl opt">=</span> <span
-	class="hl sng">&quot;certs/flatline.fr.to.crt&quot;</span><span
-	class="hl opt">;</span> <span class="hl opt">}</span>
+<body class="hl">
+<pre class="hl">ssl <span class="hl opt">= {</span> 
+	key <span class="hl opt">=</span> <span class="hl sng">&quot;certs/flatline.fr.to.key&quot;</span><span class="hl opt">;</span>
+	certificate <span class="hl opt">=</span> <span class="hl sng">&quot;certs/flatline.fr.to.crt&quot;</span><span class="hl opt">;</span>
+<span class="hl opt">}</span>
 
 VirtualHost <span class="hl sng">&quot;flatline.fr.to&quot;</span>
 
-ssl <span class="hl opt">= {</span> key <span class="hl opt">=</span>
-	<span class="hl
-	sng">&quot;certs/flatline.fr.to.key&quot;</span><span class="hl
-	opt">;</span> certificate <span class="hl opt">=</span> <span
-	class="hl sng">&quot;certs/flatline.fr.to.crt&quot;</span><span
-	class="hl opt">;</span> <span class="hl opt">}</span> </pre>
-
+ssl <span class="hl opt">= {</span> 
+	key <span class="hl opt">=</span> <span class="hl sng">&quot;certs/flatline.fr.to.key&quot;</span><span class="hl opt">;</span>
+	certificate <span class="hl opt">=</span> <span class="hl sng">&quot;certs/flatline.fr.to.crt&quot;</span><span class="hl opt">;</span>
+<span class="hl opt">}</span>
+</pre>
 
 
 now, run `prosodyctl check`, you should get an output like this
