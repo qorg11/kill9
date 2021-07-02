@@ -79,17 +79,23 @@ cert import /usr/local/etc/letsencrypt/live/
 Now, you have to give prosody that certificate, you have to put it
 twice for some reason, like this:
 
-~~~
-   ssl = { 
-                key = "certs/flatline.fr.to.key";
-                certificate = "certs/flatline.fr.to.crt";
-         }
-   VirtualHost "flatline.fr.to"
-   ssl = { 
-                key = "certs/flatline.fr.to.key";
-                certificate = "certs/flatline.fr.to.crt";
-         }
-~~~
+<pre class="hl">ssl <span class="hl opt">= {</span> key <span
+	class="hl opt">=</span> <span class="hl
+	sng">&quot;certs/flatline.fr.to.key&quot;</span><span class="hl
+	opt">;</span> certificate <span class="hl opt">=</span> <span
+	class="hl sng">&quot;certs/flatline.fr.to.crt&quot;</span><span
+	class="hl opt">;</span> <span class="hl opt">}</span>
+
+VirtualHost <span class="hl sng">&quot;flatline.fr.to&quot;</span>
+
+ssl <span class="hl opt">= {</span> key <span class="hl opt">=</span>
+	<span class="hl
+	sng">&quot;certs/flatline.fr.to.key&quot;</span><span class="hl
+	opt">;</span> certificate <span class="hl opt">=</span> <span
+	class="hl sng">&quot;certs/flatline.fr.to.crt&quot;</span><span
+	class="hl opt">;</span> <span class="hl opt">}</span> </pre>
+
+
 
 now, run `prosodyctl check`, you should get an output like this
 
