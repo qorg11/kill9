@@ -26,13 +26,18 @@ system.
 This supplies the LibreSSL ebuild itself and patches for other applications
 to get working under LibreSSL. Please do the following in a terminal:
 
-~~~ emerge eselect-repository eselect repository enable libressl emaint
-sync -r libressl ~~~
+~~~
+emerge eselect-repository 
+eselect repository enable libressl 
+emaint sync -r libressl 
+~~~
 
 After doing this, you should have the overlay synced and installed, you can
 check this by running
 
-~~~ ls /var/db/repos/libressl ~~~
+~~~ 
+ls /var/db/repos/libressl 
+~~~
 
 If files appear, you have it installed.
 
@@ -44,7 +49,9 @@ LibreSSL instaid of OpenSSL.
 In your make.conf please find the USE="" paramater and put in the
 following:
 
-~~~ USE="-openssl -system-ssl" ~~~
+~~~ 
+USE="-openssl -system-ssl" 
+~~~
 
 For apps with these USE flags, they will ignore specific OpenSSL support.
 **system-ssl** is known to cause problems for nodejs users, so I reccomend
@@ -72,7 +79,8 @@ And insert the following
 dev-libs/openssl::gentoo
 
 # OpenSSL package mask
-app-crypt/qca::gentoo dev-lang/python::gentoo ~~~
+app-crypt/qca::gentoo dev-lang/python::gentoo 
+~~~
 
 This will mask OpenSSL from being merged, and cause the other packages
 listed to only build from the LibreSSL overlay.  
@@ -83,12 +91,16 @@ Time for the big thing, we are going to migrate from OpenSSL to Libressl.
 The first part is removing OpenSSL from your system, and fetcing needed
 packages for the migration. please run:
 
-~~~ emerge -f wget curl python libressl emerge -Cq dev-libs/openssl ~~~
+~~~
+emerge -f wget curl python libressl emerge -Cq dev-libs/openssl 
+~~~
 
 After doing this, please merge LibreSSL, this will take a minute so please
 be patient.
 
-~~~ emerge -1q dev-libs/libressl::libressl ~~~
+~~~ 
+emerge -1q dev-libs/libressl::libressl 
+~~~
 
 You're almost done! To test that you are actually using LibreSSL, you can
 run somthing like 
@@ -107,7 +119,9 @@ Time to update and rebind everything to use LibreSSL, you may have noticed
 emerge will complain about libraries needing to be rebuilt, this will fix
 that.  Please run:
 
-~~~ emerge -vquDN @world emerge @preserved-rebuild ~~~
+~~~ 
+emerge -vquDN @world emerge @preserved-rebuild 
+~~~
 
 And if everything compiles fine, congratulations! You are now using a
 LibreSSL based Gentoo system. I hope you enjoyed this guide. -itZzenXX
