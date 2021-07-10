@@ -339,6 +339,10 @@ I mean, sum7 didn't give a lot of info, although you create an account
 directly from the client. Idk if you can create it through Tor
 (probably you can). idk, middle/high tier.
 
+*Update 2021-07-10:* If you have an account in chat.sum7.eu and
+someone wants to add you, they will have to resolve a captcha, just
+like creep.im. So don't use it if you care about your contacts.
+
 # xabber.org
 
 Need recaptcha to create account, privacy policy is ok. middle-low
